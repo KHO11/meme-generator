@@ -2,6 +2,14 @@
 
 A web application I have built for anyone to use where random memes appear depending on the user. It was contrusted with create-react-app featuring an API and using styled components.
 
+# Lessoms learned
+
+My first react project where I had to learn how to use JSX instead of HTML and JavaScript being used separately when coding. State and was an important concept to learn since the information on the state changes regarding the user actions on the application. 
+
+# Possible future features
+
+Add more variety of different music instead of having 4 songs available and maybe have an option where the user choose their favorite songs in a specific genre and play those songs in that genre first then move on to another genre of their favorite songs. 
+
 # Deployment
 
 cd memegenerator
