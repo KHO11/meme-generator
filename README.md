@@ -1,3 +1,7 @@
+# Meme generator
+
+A web application I have built for anyone to use where random memes appear depending on the user. It was contrusted with create-react-app featuring an API and using styled components.
+
 # Deployment
 
 cd memegenerator
